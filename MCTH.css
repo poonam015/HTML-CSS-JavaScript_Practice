@@ -1,0 +1,49 @@
+.img1{
+    margin-left:370px;
+}
+.myh1{
+    margin-left:530px;
+    margin-top:-90px;
+    font-family: cursive;
+    color:YellowGreen;
+    text-shadow: 3px 3px black;
+}
+.img2{
+    margin-left: 820px;
+    margin-top:-70px;
+}
+header{
+    background-color: LightYellow;
+    border:2px solid red;
+    padding:50px;
+}
+nav{
+    background-color: lightyellow;
+    padding: 20px;
+}
+ul{
+    margin-left:420px;
+}
+li{
+    display: inline;
+    margin:20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+}
+.about{
+    width:900px;
+    margin-left: 350px;
+    margin-top: -280px;
+}
+p{
+    font-size:25px;
+    text-indent: 25px;
+    font-family: cursive;
+}
+.maps{
+    margin-left: 600px;
+    margin-top: -150px;
+}
